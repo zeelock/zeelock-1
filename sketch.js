@@ -11,7 +11,7 @@ function draw() {
 
   ellipse( mouseX,mouseY, 500,500 );
   ellipse( mouseY,mouseX, 500,500 );
-  fill(r255 b0 y0);
+  fill(r255 , b0 , y0);
   
 
   
