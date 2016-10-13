@@ -9,9 +9,9 @@ function setup() {
 
 function draw() {
 
-  ellipse( mouseX,mouseY, 50, 50 );
+  ellipse( 400,400, mouseX,mouseY );
   
-  randum(fill);
+  
   
   
 }
