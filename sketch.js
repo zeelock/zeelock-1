@@ -9,7 +9,7 @@ function setup() {
 
 function draw() {
 
-  ellipse( 50, 100, 50, 50 );
+  ellipse( 400, 400, 50, 50 );
   
   
   
