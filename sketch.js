@@ -9,7 +9,6 @@ function setup() {
 
 function draw() {
 
-  d3.randomUniform(1 , 800)=A;
   ellipsis( mouseX , mouseY , 50 , 50);
   
 }
