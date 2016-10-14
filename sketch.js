@@ -9,8 +9,7 @@ function setup() {
 
 function draw() {
 
-
-  ellipse( randomUniform(1,800) , -mouseY , 50, 50);
-  fill(r=255, b=0 , y=0);
+  d3.randomUniform(1 , 800)=A;
+  ellipsis( A , A , 50 , 50);
   
 }
