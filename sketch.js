@@ -1,6 +1,6 @@
 function setup() {
   
-  createCanvas(1250,800);
+  createCanvas(1253,800);
   
   
   
