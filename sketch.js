@@ -9,7 +9,7 @@ function setup() {
 
 function draw() {
 
-  ellipse( randum(1-800), randum(1-800), 50, 50);
+  ellipse( mouseY, mouseX, 50, 50);
  
   fill(r=255, b=0 , y=0);
   
