@@ -9,6 +9,6 @@ function setup() {
 
 function draw() {
 
-  ellipsis(mouseX , mouseY , 50 , 50);
-  
+  Ellipsis(mouseX , mouseY , 50 , 50);
+  fill(r=255,b=0,y=0);
 }
