@@ -9,7 +9,7 @@ function setup() {
 
 function draw() {
 
-  ellipse( mouseX , mouseY ,mouseX , mouseY);
+  ellipse( mouseX , mouseY ,mouseY , mouseY);
   fill(r=255,b=0,y=0);
   
   
