@@ -8,8 +8,9 @@ function setup() {
 }
 
 function draw() {
-  
-  ellipse( 400 , 400 ,mouseX , mouseY);
+  ellipse( mouseX , mouseY ,25 , 25);
+  fill(r=0,b=0,y=0);
+  ellipse( mouseX , mouseY ,50 , 50);
   fill(r=255,b=0,y=0);
   
   
