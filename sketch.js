@@ -13,7 +13,7 @@ function draw() {
   ellipse( mouseX , mouseY ,50 , 50);
   
   fill(r=0,b=0,y=0);
-  ellipse( mouseX , mouseY ,25 , 25);
+  ellipse( mouseX , mouseY ,40 , 40);
   
   
   
