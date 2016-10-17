@@ -9,11 +9,11 @@ function setup() {
 
 function draw() {
   
-  fill(r=50,b=0,y=50);
-  ellipse( mouseX , mouseY ,100 , 100);
-  
-  fill(r=255,b=0,y=0);
+  fill(r=50,b=0,y=);
   ellipse( mouseX , mouseY ,50 , 50);
+  
+  fill(r=255,b=255,y=255);
+  ellipse( mouseX , mouseY ,25 , 25);
   
   
   
