@@ -36,7 +36,7 @@ var moons = function( add , dis , die ,angx,angy ){
   push();
         
             rotateX(angx+xax/add*PI);
-            rotateY(angy+xax/add*PI);
+             rotateY(angy+xax/add*PI);
 //            rotateX( angx + xax/add*2*PI);
          
            
