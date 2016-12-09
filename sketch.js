@@ -13,8 +13,8 @@ function draw() {
  push();
  //ambientLight(0);
  rotateX(frameCount*0.1);
- pointLight(0, 100, 250, 0, 1, -10);
- ambientMaterial(200);
+ pointLight(255, 255, 255, 0, 0, -1);
+ //ambientMaterial(200);
  pop();
 //translate( 0 , 0 , (mouseX-0.5*windowWidth)*1);
 //rotateX((mouseY-0.5*windowHeight)*0.01);
